@@ -3,7 +3,7 @@ from mysql.connector import errorcode
 
 
 print("Namaste Macha!")
-print("endha chicha!")
+print("Namaste")
 from flask import Flask
 """
 app = Flask(__name__)
