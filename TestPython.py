@@ -1,11 +1,10 @@
 import mysql.connector
 from mysql.connector import errorcode
-
+from flask import Flask
 
 print("Namaste Macha!")
-print("Namaste")
-from flask import Flask
-"""
+print("endha chicha")
+
 app = Flask(__name__)
 
 @app.route("/")
@@ -14,7 +13,7 @@ def hello():
 
 if __name__ == "__main__":
     app.run()
-"""
+
 
 
 
